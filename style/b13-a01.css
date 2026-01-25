@@ -1,0 +1,28 @@
+
+.open-sans {
+  font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+}
+nav{
+    width: 71%;
+    max-width: 1140px;
+    line-height: 92px;
+    border-bottom: 1px;
+    padding: 16px 120px;
+    margin: 0px auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #FFFFFF;
+}
+.menu{
+    display: flex;
+    max-width: 365px;
+    line-height: 24px;
+    gap: 32px;
+    justify-content: space-between;
+}
+.logo {
+    max-width: 139px;
+    max-height: 60px;
+}
